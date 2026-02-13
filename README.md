@@ -18,8 +18,8 @@ Reverse IP reconnaissance tool for discovering domains hosted on the same IP add
 ## Requirements
 - Python 3.8+
 - API keys for:
-  - :contentReference[oaicite:0]{index=0}
-  - :contentReference[oaicite:1]{index=1}
+  - VirusTotal
+  - SecurityTrails
 
 Install dependencies:
 ```bash
